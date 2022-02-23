@@ -1,20 +1,20 @@
 .header-link {
     display: block;
     padding: 0.5rem 1rem;
-    color: rgba(255,255,255,.55);
+    color: rgb(193, 221, 138);
     text-decoration: none;
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
 }
 
 .header-link.active {
-    color: white;
+    color: rgb(193, 221, 138);
 }
 
 .custom-navbar-brand-link {
     text-decoration: none;
-    color: white;
+    color: rgb(193, 221, 138);
 }
 
 .custom-navbar-brand-link:hover {
-    color: white;
+    color: rgb(193, 221, 138);
 }

@@ -16,7 +16,7 @@ const Header = () => {
                     <Nav className="ms-auto">
                         <Link to="/" className={`header-link ${location.pathname === '/' ? 'active' : ''}`}>Home</Link>
                         <Link to="/portofolio" className={`header-link ${location.pathname === '/portofolio' ? 'active' : ''}`}>Portofoliu</Link>
-                        <Link to="/booking" className={`header-link ${location.pathname === '/booking' ? 'active' : ''}`}>Programari</Link>
+                        <Link to="/booking" className={`header-link ${location.pathname === '/booking' ? 'active' : ''}`}>Programări</Link>
                         <Link to="/contact" className={`header-link ${location.pathname === '/contact' ? 'active' : ''}`}>Contact</Link>
                     </Nav>
                 </Navbar.Collapse>

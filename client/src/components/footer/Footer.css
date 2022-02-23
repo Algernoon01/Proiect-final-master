@@ -1,7 +1,11 @@
 .footer-copyright {
     color: whitesmoke;
+    display: flex;
+  justify-content: center;
 }
 
 .footer-copyright a{
     color: whitesmoke;
+    display: flex;
+  justify-content: center;
 }

@@ -8,7 +8,7 @@ import Portofolio from './pages/portofolio';
 import Booking from './pages/booking';
 import Contact from './pages/contact';
 
-import 'react-datepicker/dist/react-datepicker.css';
+//import 'react-datepicker/dist/react-datepicker.css';
 
 function App() {
 

@@ -1,0 +1,17 @@
+.booking-container {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-image: url("../assets/images/background.jpg");
+    background-size: cover;
+    color: rgb(193, 221, 138);
+}
+
+.date-picker-wrapper {
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+    border: 1px solid;
+    border-radius: 4px;
+    background: #00000038;
+}
