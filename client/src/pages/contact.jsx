@@ -2,8 +2,8 @@ const Contact = () => {
   return (
     <div className="contact-container">
       <h4>
-        Te invit la studioul meu din Constanţa pentru a da viaţă unor amintiri
-        de neuitat pentru tine şi micuţul tău.</h4>
+        Te invit la studioul meu din Constanţa pentru a da viaţă </h4>
+         <h4>unor amintiri de neuitat pentru tine şi micuţul tău.</h4>
         
         <h4>Dacă vrei să stabileşti o
         întâlnire, mă poţi găsi la:</h4>
